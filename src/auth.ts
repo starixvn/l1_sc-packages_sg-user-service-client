@@ -1,4 +1,4 @@
-import { AxiosInstance } from "axios/dist/axios.min.js";
+import { AxiosInstance } from "axios";
 
 export interface UMInfo {
     startTime: Date;

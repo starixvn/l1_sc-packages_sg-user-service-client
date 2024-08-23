@@ -1,4 +1,4 @@
-import { AxiosInstance } from "axios/dist/axios.min.js";
+import { AxiosInstance } from "axios";
 
 export const UserSettingKeys = {
     quickBet: "quickBet",
