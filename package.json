@@ -1,6 +1,7 @@
 {
     "name": "@sg/sg-user-service-client",
     "version": "1.8.2-beta.4",
+    "type": "commonjs",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "repository": "https://git3.nexdev.net/sc-packages/sc-user-service-client.git",
@@ -10,6 +11,7 @@
     },
     "license": "MIT",
     "scripts": {
+        "start": "tsc --watch",
         "reg": "npm set registry http://npm.lumigame.com",
         "build": "tsc",
         "verpatch": "npm version patch",
