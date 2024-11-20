@@ -15,6 +15,8 @@ export interface SSOResponse {
     isUM: boolean;
     umInfo: UMInfo;
     system: number;
+    offerGames: OfferGame[];
+    fractionalOddsFormat: boolean;
 }
 
 export interface Response {

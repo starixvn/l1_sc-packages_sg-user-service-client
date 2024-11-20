@@ -1,6 +1,6 @@
 {
     "name": "@sg/sg-user-service-client",
-    "version": "1.8.2-beta.5",
+    "version": "1.8.2-beta.8",
     "type": "commonjs",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
